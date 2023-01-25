@@ -126,10 +126,7 @@ public class Main {
       }
       System.out.printf(num1 + " " + action + " " + num2 + " = " + result);
    }
+}
+}
 
-@Override
-public String toString() {
-	return "Main []";
-}
-}
-    
+
